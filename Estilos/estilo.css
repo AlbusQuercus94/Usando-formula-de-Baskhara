@@ -12,7 +12,7 @@ header{
 h1{
     text-align:center;
 }
-p{
+h1 p{
     font-size:0.75em;
     text-align: justify;
 }
